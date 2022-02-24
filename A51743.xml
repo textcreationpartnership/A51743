@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations towards peace and quietness in religion. In answer to the question, whether the multitude are fit readers of Holy Scripture.</title>
+            <author>Manby, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51743</idno>
+            <idno type="STC">Wing M389</idno>
+            <idno type="STC">ESTC R31159</idno>
+            <idno type="EEBO-CITATION">99834875</idno>
+            <idno type="PROQUEST">99834875</idno>
+            <idno type="VID">39487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:8, 1762:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations towards peace and quietness in religion. In answer to the question, whether the multitude are fit readers of Holy Scripture.</title>
+                  <author>Manby, William.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed, 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By William Manby.</note>
+                  <note>Reproductions of the originals in the Union Theological Seminary Library, New York and the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Commentaries --  Early works to 1800.</term>
+               <term>Bible --  Censorship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39487:1" rendition="simple:additions"/>
+            <pb facs="tcp:39487:1" rendition="simple:additions"/>
+            <p>SOME CONSIDERATIONS TOWARDS PEACE and QUIETNESS IN RELIGION. In Anſwer to the Queſtion, <hi>Whether the Multitude are fit Readers of</hi> HOLY SCRIPTURE.</p>
+            <q>
+               <p>Nolite Sanctum dare Canibus, nec projiciatis margari<g ref="char:EOLhyphen"/>tas veſtras ante Porcos.</p>
+               <bibl>
+                  <hi>Matth. 7.6.</hi>
+               </bibl>
+            </q>
+            <p>Printed, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:39487:2"/>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>is the ſame betwixt the Scripture and the unſtable People.</p>
+            <p>We can't ſuppoſe them, (<hi>viz.</hi> Women, Tradeſ<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi>) able to underſtand the Circumſtances of time and place when and where it was written; nor the coherence of things; nor the Cuſtomes and Rites of the ſeveral Nations to which it alludes; but that they will contrive and apply it, as though it intended the very State and Condition of theſe Iſlands. No<g ref="char:EOLhyphen"/>thing has been more experienc'd than this. And here the Reader will pleaſe to obſerve, I am not going about to argue this matter from the <hi>abuſe</hi> of Scripture, but from the <hi>popular</hi> unfitneſs and incapacity to meddle with it. The argument, I confeſs, is not good, from the ill uſe of a thing to take away the uſe: but I hope the argument is good, Such a man is of a weak digeſti<g ref="char:EOLhyphen"/>on, Therefore not to be advis'd to the uſe of ſtrong meats: or he is of a temper apt to quarrel, Therefore let him abſtain from much Wine.</p>
+            <p>That this may appear, let it be remembred, the Or<g ref="char:EOLhyphen"/>dinary means to a right underſtanding of the Scriptures are theſe, Learning, ſtudy, rational inference, collation of places, conſulting the Original and Expoſitions of the primitive Fathers, who liv'd neareſt the Age of the Apoſtles, together with an humble temper and conſtant prayer for Gods bleſſing upon all.</p>
+            <p>Conſider alſo how naturally they miſtake theſe fol<g ref="char:EOLhyphen"/>lowing Texts;</p>
+            <q>
+               <p>The hour cometh and now is, when the true worſhip<g ref="char:EOLhyphen"/>pers ſhall worſhip the Father in Spirit and in truth.</p>
+               <pb n="3" facs="tcp:39487:2"/>
+               <p>In vain do ye worſhip me, teaching for doctrines the commandments of men.</p>
+               <p>Ye are bought with a price, be not ye the ſervants of men.</p>
+               <p>Stand faſt in the liberty wherewith Chriſt hath made you free.</p>
+               <p>Why as though living in the world are ye ſubject to Ordinances?</p>
+               <p>The Kings of the Gentiles exerciſe Lordſhip over them, but it ſhall not be ſo among you.</p>
+               <p>O father thou haſt hid theſe things from the wiſe and prudent, but haſt revealed them unto Babes.</p>
+            </q>
+            <p>Illuminated by theſe and other Texts, the grave Shop-keeper can ſee Popery in the <hi>Church</hi> and Ty<g ref="char:EOLhyphen"/>ranny in the <hi>State:</hi> and in vain ſhall you or I tell him that he is miſtaken in his interpretation of them.</p>
+            <p>I would only ſay this, That <hi>learning</hi> and <hi>modeſty</hi> are neceſſary to the underſtanding of the Bible; the Peo<g ref="char:EOLhyphen"/>ple generally want <hi>both,</hi> therefore no competent <hi>Rea<g ref="char:EOLhyphen"/>ders.</hi> What will the grave <hi>Inn-keeper</hi> ſay to this? 'Tis true, I am not learned my ſelf, but our Miniſter Mr. <hi>T.</hi> is a very precious man, and a <hi>Goſpel Preacher,</hi> and able to teach us the right ſence of the aforeſaid Texts.</p>
+            <p>Very good, Though thou beeſt not learned, nor ſo and ſo qualified thy ſelf, thy <hi>Miniſter</hi> is; this ſeems to reſolve all into the <hi>Miniſter;</hi> and to confeſs una<g ref="char:EOLhyphen"/>wares, That not the unlearned People, but the <hi>Church</hi> or <hi>Paſtors</hi> thereof are fit to give the ſence of Gods Word. Thus, perhaps, unawares art thou confeſſing that <hi>Popery,</hi> (about which thoſe of thy Party have ſo long confounded the peace of Chriſtendom) of
+<pb n="4" facs="tcp:39487:3"/>reſting in the <hi>Church</hi> or <hi>Paſtors</hi> thereof, for the ſence of Gods Word.</p>
+            <p>Which being duly conſidered, it ſeems to me a little incongruous, if not abſurd, to ſay, That every <hi>Weaver, Brewer, Taylor</hi> hath (notwithſtanding his want of the aforeſaid requiſits, to wit, <hi>learning</hi> and <hi>humility</hi>) a <hi>judgement</hi> of <hi>diſcretion</hi> to aſſent or diſſent from the <hi>ſence</hi> given by the Church. To allow him ſuch a judgement, and yet reſtrain him the external liberty thereof, or cenſure him for it, ſeems to him very hard and unjuſt. My dulneſs, I confeſs, apprehends not the difference betwixt this <hi>Judgement</hi> of <hi>diſcretion</hi> and that which ſome call the <hi>private Spirit.</hi>
+            </p>
+            <p>What? am I allowed a judgement of diſcretion, will the honeſt Taylor ſay; and muſt I be debarr'd the liberty thereof? muſt I pin my faith on the ſleeve of the Church? No (good Mr. <hi>Parſon</hi>) for all your car<g ref="char:EOLhyphen"/>nal Sophiſtry, my <hi>Judgement</hi> obliges me to cut out my own Religion and ſet it up for a Faſhion.</p>
+            <p>To this the ingenious and worthy Dr. <hi>Tillotſon</hi> an<g ref="char:EOLhyphen"/>ſwers in his late Sermon on 1 <hi>John</hi> 4.1. <hi>pag.</hi> 39. That all Perſons having Capacities for it, are to read the Scriptures and judge for themſelves in matters of Reli<g ref="char:EOLhyphen"/>gion, but with modeſty and humility, with great ſub<g ref="char:EOLhyphen"/>miſſion to their ſpiritual Guides.</p>
+            <p>
+               <hi>Having Capacities for it;</hi> which excludes all im<g ref="char:EOLhyphen"/>modeſt and unlearned People from <hi>judging</hi> for them<g ref="char:EOLhyphen"/>ſelves: <hi>with ſubmiſſion to their ſpiritual Guides,</hi> makes the <hi>Taylors</hi> judgement of diſcretion an impertinent thing. It is to be conſidered (ſaith the Doctor in the aforeſaid Sermon) <hi>That the proper remedy in this caſe is not to deprive men of this priviledge of judging for
+<pb n="5" facs="tcp:39487:3"/>themſelves in matters of Religion; but to uſe the beſt means to prevent the abuſe of it. And this means is, we are to caution them not to aſſume to themſelves the Authority of Judges, inſtead of demeaning themſelves with the ſubmiſſion of Learners.</hi> 'Tis an excellent cau<g ref="char:EOLhyphen"/>tion, were the <hi>multitude</hi> capable to receive it.</p>
+            <p>Well, but you will ſay, it's true, the Multitude may be ſomewhat incapable to judge ſo them elves as to doubtful and diſputable matters. But as to all mat<g ref="char:EOLhyphen"/>ters <hi>neceſſary</hi> to ſalvation, the <hi>Scriptures</hi> are plain and evident to every Taylors underſtanding. Perhaps not.</p>
+            <p>Where the <hi>obſcurity</hi> dwells, of divers Articles ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation, whether in the <hi>Scriptures</hi> or the <hi>Peoples</hi> underſtandings, I ſhall not undertake to deter<g ref="char:EOLhyphen"/>mine: but this, I hope, will be granted me, that the doctrine of the Trinity, the Article of the Holy Ca<g ref="char:EOLhyphen"/>tholick Church, Infants Baptiſm, obedience to Au<g ref="char:EOLhyphen"/>thority Civil and Eccleſiaſtical are matters neceſſary to ſalvation; and yet how many thouſands (good ſeri<g ref="char:EOLhyphen"/>ous Tradeſmen) do attentively read the <hi>Engliſh Bible</hi> and miſs the Orthodox belief of theſe things? So that to tell us of ſuch a brightneſs in the <hi>Scriptures</hi> as to all <hi>neceſſary</hi> matters, is to inform us, as Countrey People do Travellers, enquiring their <hi>way</hi> to ſuch a <hi>Town;</hi> that we cann't go aſtray, when nothing is more eaſie.</p>
+            <p>I know not, but if the <hi>Scriptures</hi> were ſo extream<g ref="char:EOLhyphen"/>ly perſpicuous, methinks the <hi>Controverſies</hi> between us and the <hi>Papiſts</hi> and <hi>Socinians</hi> were ſoon at an end: what ſhould hinder it? the blindneſs of their under<g ref="char:EOLhyphen"/>ſtandings or perverſeneſs of their wills; alas! object this to a Presbyterian or Papiſt, Independent or Socinian, they will exceedingly pity your <hi>blindneſs.</hi>
+            </p>
+            <pb n="6" facs="tcp:39487:4"/>
+            <p>Having premis'd theſe things, let's proceed to exa<g ref="char:EOLhyphen"/>mine what's uſually objected to the contrary.</p>
+            <p>And firſt are we not commanded to ſearch the Scri<g ref="char:EOLhyphen"/>ptures, <hi>John</hi> 5.39. Indeed our <hi>Engliſh Bible</hi> renders the word <hi>Search</hi> in the imperative mood; whereas it doth not appear in the Original whether it be <hi>indica<g ref="char:EOLhyphen"/>tive</hi> or <hi>imperative.</hi> But ſuppoſing it to have been ſpoken <hi>imperatively,</hi> Go ſearch the Scriptures; 'tis a miſtake to think they were the Vulgar and Unlearned Jews our bleſſed Saviour was then diſcourſing with, whoſe incapacities he underſtood too well to require any ſuch thing of them. By <hi>Scriptures</hi> here, he meant the <hi>Pſalms,</hi> the Predictions of <hi>Ezekiel, Daniel,</hi> &amp;c. the <hi>Moſaical</hi> types and figures of the <hi>Meſſiah;</hi> which, at that time, the moſt learned Jews had enough to do to unriddle. The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Search</hi> being a Metaphor taken from ſuch as dig deep in the <hi>mines,</hi> imports ſuch an <hi>Enquiry</hi> as unlearned People, who underſtand not the Original, cannot be thought capable of. The ma<g ref="char:EOLhyphen"/>ternal language of <hi>Judea</hi> at that time and long before was <hi>Syriac,</hi> and (as learned men ſay) the Vulgar Jews of that Age underſtood <hi>Hebrew</hi> no more than now Vulgar Italians do Latin.</p>
+            <p>But ('twill be ſaid) The Law and the Prophets were then read in the Synagogues every Sabbath day. Yes, in the <hi>Hebrew</hi> tongue, as at this day; and in<g ref="char:EOLhyphen"/>terpreted by the <hi>Scribes</hi> and Jewiſh <hi>Doctors;</hi> otherwiſe not underſtood by the common people: The perfect <hi>Hebrew</hi> ever ſince the <hi>Captivity</hi> ceaſing to be the Vul<g ref="char:EOLhyphen"/>gar Language of the Jews. The Reader may pleaſe to ſee a further account of this, in Biſhop <hi>Walton</hi>'s Preface before his Introduction to the Eaſtern tongues: Printed <hi>Anno</hi> 1655.</p>
+            <pb n="7" facs="tcp:39487:4"/>
+            <p>The Old Teſtament was not then extant in the Vul<g ref="char:EOLhyphen"/>gar, that is, the <hi>Syriac</hi> tongue: nor perhaps any <hi>Chal<g ref="char:EOLhyphen"/>dee Paraphraſe.</hi> Or if it were, a Paraphraſe is one thing and a Tranſlation is another. 'Tis to me a lit<g ref="char:EOLhyphen"/>tle ſtrange, that our bleſſed <hi>Saviour</hi> (if it were a mat<g ref="char:EOLhyphen"/>ter of ſo grand neceſſity) either left no <hi>injunction</hi> touching an intire <hi>tranſlation</hi> of the Scriptures, or that the Apoſtles recorded it not. 'Tis true, the Old Te<g ref="char:EOLhyphen"/>ſtament was then extant in Greek, which the Vulgar In<g ref="char:EOLhyphen"/>habitants of <hi>Judea</hi> underſtood not.</p>
+            <p>But are not the <hi>Bereans</hi> commended, <hi>Acts</hi> 17.11. in that they received the <hi>Word</hi> with all readineſs of mind, and ſearched the Scriptures daily whether thoſe things were ſo? Yes <hi>Paul</hi> and <hi>Sylas</hi> went into the Sy<g ref="char:EOLhyphen"/>nagogue at <hi>Berca,</hi> and there preached to the Jews, <hi>open<g ref="char:EOLhyphen"/>ing</hi> and <hi>alledging</hi> out of the Old Teſtament, <hi>That Chriſt muſt needs have ſuffered and riſen again from the dead.</hi> Whereupon the <hi>Bereans,</hi> as many as were capable of it, conſulting the Scriptures honeſtly and without prejudice, were converted to the Chriſtian faith. Where it is to be obſerved, That theſe <hi>Bere<g ref="char:EOLhyphen"/>ans</hi> by the Apoſtles <hi>Preaching</hi> and <hi>Expounding</hi> under<g ref="char:EOLhyphen"/>ſtood the Scriptures and never before; though they read them and heard them read every Sabbath day. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, They were of a more generous and docible temper than other Jews. In all which there is not, that I can perceive, any contradiction to what I have ſaid, that the <hi>Multitude</hi> cannot of them<g ref="char:EOLhyphen"/>ſelves and by their own Reading underſtand the Scri<g ref="char:EOLhyphen"/>ptures, that is, without the guidance of their Pa<g ref="char:EOLhyphen"/>ſtors.</p>
+            <pb n="8" facs="tcp:39487:5"/>
+            <p>But the <hi>Bereans</hi> examined St. <hi>Paul</hi>'s doctrine by the Scriptures, therefore the <hi>People</hi> are to examine their Paſtors doctrine by the Scriptures; It will not follow. The <hi>Bereans</hi> were as yet no <hi>Chriſtians</hi> but Jews; and conſequently <hi>He</hi> not as yet acknowledged for their Paſtor. The caſe is not the ſame between Chriſtian Paſtors and <hi>Jews,</hi> as between Chriſtian Preachers and their own flocks. Chriſtian people, if they regard the Scriptures, are not to judge, but to <hi>obey</hi> and <hi>ſubmit themſelves to their own Paſtors, who watch for their ſouls as thoſe that muſt give an ac<g ref="char:EOLhyphen"/>count,</hi> Heb. 13.17. We may talk of our <hi>judgement</hi> of <hi>diſcretion,</hi> and miſtake our own petulant humours for it. What but confuſion and diſtraction can be the conſequence of this <hi>maxim,</hi> that the <hi>Sheep</hi> may ar<g ref="char:EOLhyphen"/>raign the doctrine of their Paſtors? The <hi>Clergy</hi> there<g ref="char:EOLhyphen"/>fore in caſe of erroneous doctrine are to be accountable to their own <hi>Superiors.</hi>
+            </p>
+            <p>There are divers other <hi>Texts</hi> objected againſt the premiſes, but none which the ingeni us Reader (and to ſuch alone I addreſs this Paper) may not eaſily an<g ref="char:EOLhyphen"/>ſwer. That the <hi>Iſraelites</hi> were to meditate in the <hi>Law</hi> and teach it diligently to their Children, is very often and very impertinently objected. For the <hi>Law</hi> of God is one thing and the <hi>Scripture</hi> at large is another. By the <hi>Law</hi> of God is meant not every paſſage in the Bible, but the moral, judicial, and ceremonial Laws contained in the Books of <hi>Exodus, Leviticus,</hi> and <hi>Deu<g ref="char:EOLhyphen"/>teronomy.</hi> Which Laws the Iſraelites were firſt to be taught by their Prieſts <hi>Deut.</hi> 31.11. and afterwards to teach them their Children: This is nothing to our caſe. That Chriſtian People are to know and underſtand
+<pb n="9" facs="tcp:39487:5"/>Gods <hi>commandments</hi> no body ever doubted; That they are bound (I mean the unlearned) to read or under<g ref="char:EOLhyphen"/>ſtand <hi>Ezekiel, Daniel</hi> or the <hi>Revelations,</hi> yea or St. <hi>Paul</hi>'s Epiſtles, is that which I deny; and I would gladly ſee a pertinent <hi>Text</hi> to prove it.</p>
+            <p>As for S. <hi>Paul</hi>'s commendation of <hi>Timothy,</hi> that <hi>he had known the Holy Scriptures from a Child,</hi> it's no con<g ref="char:EOLhyphen"/>tradiction to what has been ſaid.</p>
+            <p>Imagine <hi>Timothy,</hi> a ſelect Perſon, an <hi>Angel</hi> of the Church, underſtood all the Prophecies of the Old Teſtament from a Child, will it follow that every Wo<g ref="char:EOLhyphen"/>man and Tradeſman can be ſo happy? Again, by the <hi>Holy Scriptures</hi> cannot be meant here all the <hi>Prophecies</hi> of the Old Teſtament; becauſe divers parts thereof, as the beginning of <hi>Geneſis,</hi> the Book of <hi>Canticles,</hi> the firſt and laſt Chapters of <hi>Ezekiel</hi> were not to be read by the ancient Jews under thirty years of age, as <hi>S. Hierom</hi> informs us in his Epiſtle to <hi>Paulinus.</hi>
+            </p>
+            <p>In whoſe dayes the Scriptures being ſo profan'd by Vulgar hands, mov'd him to this following <hi>reſentment,</hi> which the Reader will give me leave to tranſcribe out of that Epiſtle.</p>
+            <p>
+               <hi>Agricolae, Caementarii; Fabri metallorum, Lignorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Caeſores, Lanarii quoque &amp; Fullones &amp; caeteri qui vari<g ref="char:EOLhyphen"/>am ſupellectilem fabricant, abſque doctore eſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>non poſ<g ref="char:EOLhyphen"/>ſant. Quod medicorum eſt, promittunt medici; tra<g ref="char:EOLhyphen"/>ctant fabrilia fabri. Sola Scripturarum ars eſt, quam paſſim omnes ſibi vendicant. Hanc garrula<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anus, han<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> delirus ſenex, hanc Sophiſta verboſus, hanc univerſi praeſumunt, lacerant, docent antequam diſcunt,</hi> &amp;c. That is, to be a Smith, or Maſon, or Carpenter, or any other ſort of Craftſman, there is need of a <hi>Maſter.</hi>
+               <pb n="10" facs="tcp:39487:6"/>only the Trade of expounding Scripture is a Myſtery which every one arrogates to himſelf. Here the Phy<g ref="char:EOLhyphen"/>ſician will be preſcribing receits, the Lawyer will be demurring, and every handy-crafts-man will be handling the Word of God with impure hands. This the prat<g ref="char:EOLhyphen"/>ling huſwife, this the old Dotard, this the wrangling Sophiſter, in a word this men of all ſorts take upon them to have skill in, and to teach what they never learn'd. <hi>Thus he.</hi>
+            </p>
+            <p>The Bible then in his dayes (you will ſay) had been tranſlated into the vulgar tongue. It was ſo, and per<g ref="char:EOLhyphen"/>haps two centuries before: and into <hi>Greek</hi> long before our Saviours time. The queſtion all this while is not whether the Scriptures may be read in the Vulgar Lan<g ref="char:EOLhyphen"/>guage? no, that which S. <hi>Hierome</hi> reſented, was the promiſcuous and unlicens'd uſe of them by all ſorts of <hi>ill diſpos'd</hi> People. Let the queſtion therefore be whe<g ref="char:EOLhyphen"/>ther the Church in prudence might not reſtrain ſuch profanation of them? or whether conduces more to the honour of Religion, the peace and unity of the Church, to have the uſe of Vulgar Tranſlations with or without Licence?</p>
+            <p>I don't find the Church of <hi>Rome</hi> themſelves abſo<g ref="char:EOLhyphen"/>lutely forbidding the uſe of Vulgar Tranſlations; but only providing that the unlearned and unſtable people may read, but not <hi>wreſt them to their own deſtructi<g ref="char:EOLhyphen"/>on,</hi> as <hi>S. Peter</hi> ſpeaks. See <hi>Bellarm. lib.</hi> 2. <hi>de. Verbo Dei cap.</hi> 15. I wiſh it were the worſt of their errors; whereby they have preſerved themſelves, if not from all diſputes of Religion, at leaſt, from that Labyrinth of <hi>Reformation,</hi> into which we of theſe <hi>Nations</hi> ſeem to have brought our ſelves at this day. For as if Re<g ref="char:EOLhyphen"/>ligion
+<pb n="11" facs="tcp:39487:6"/>had not been often enough reform'd ſince <hi>Hen.</hi> 8. we are at this day not without our apprehenſions, nor our numerous <hi>Adverſaries</hi> without their ſtrong hopes of another <hi>Reformation.</hi>
+            </p>
+            <p>Let it be remembred that envy and inconſtancy are the natural humours of the <hi>Multitude;</hi> and that no experience hath found theſe humours any whit abated, but rather heightned by their familiarity with the Scriptures.</p>
+            <p>The <hi>High Commiſſion Court</hi> in cauſes Eccleſiaſtical, if reſtor'd, were a happy remedy (ſome think) to ſuppreſs hereſies, errors, ſchiſms, blaſphemies, and abu<g ref="char:EOLhyphen"/>ſes in Religion. But alas! reflect a little on our <hi>late</hi> times, and then tell me what did this High Commiſſion Court ſignifie againſt the <hi>multitude</hi> intoxicated with miſtakes of Holy Scripture?</p>
+            <p>But Hereſies and Schiſms (you will ſay) have been vented for the moſt part not by ignorant but learned men. I know not: perhaps if the truth were known, their pride and ill nature would be found much greater than their <hi>learning;</hi> and their ſchiſms might have ex<g ref="char:EOLhyphen"/>pir'd with themſelves, were not the Holy Scriptures unadviſedly expos'd into the rude hands of the <hi>Mul<g ref="char:EOLhyphen"/>titude.</hi>
+            </p>
+            <p>To be ſhort, let the Reader pleaſe to obſerve with me this one thing, that unlearned People, when they read the Bible, muſt of neceſſity conſtrue it by an im<g ref="char:EOLhyphen"/>plicit faith on the skill of the <hi>Tranſlators:</hi> and why not by the ſame faith and much more ſafety and hu<g ref="char:EOLhyphen"/>mility receive the ſubſtance and effect of it, collected by the Church into Books of Piety and Devotion? This (I humbly think) were not to keep them in ig<g ref="char:EOLhyphen"/>norance,
+<pb n="12" facs="tcp:39487:7"/>but in ſobriety and in their wits. A man would think (conſidering the popular incapacity and weakneſs to receive ſo <hi>ſtrong meat,</hi> not being chew'd nor prepar'd for them) ſuch Books as the <hi>Catechiſm</hi> of the Church of <hi>England,</hi> or the <hi>whole Duty of man</hi> much fitter for them. <hi>S. Paul</hi> gave this judgement concerning his <hi>Corinthians,</hi> 1 Cor. 3.2. <hi>I have fed you with milk and not with meat, for bitherto ye were not able to bear it, neither yet are ye able.</hi>
+            </p>
+            <p>Unlearned People (I ſay) whether they will or no, muſt depend on the fidelity of the Tranſlators of Holy Scripture. For ought they know, it may be all miſ<g ref="char:EOLhyphen"/>interpreted into the Vulgar Language, as certainly ma<g ref="char:EOLhyphen"/>ny places are in our <hi>Engliſh</hi> Bible. To inſtance in a few.</p>
+            <p>
+               <hi>Matth.</hi> 28.19. <hi>Gal.</hi> 5.17. <hi>Coloſſ.</hi> 2.20. 1 <hi>Cor.</hi> 7.9. <hi>Matth.</hi> 19.11. <hi>Job</hi> 7.1. 1 <hi>Cor.</hi> 11.2. <hi>Daniel</hi> 4.27. <hi>Acts</hi> 17.22.</p>
+            <p>All which and many other Texts are made uſe of at every turn to juſtifie their looſe and Fanatical opinions. Particularly you ſhall find <hi>Gal.</hi> 5.17. cited by the <hi>Presbyterian</hi> Aſſembly of Divines, to prove the impoſ<g ref="char:EOLhyphen"/>ſibility of keeping Gods Commandments; the words in the <hi>Original</hi> admitting no ſuch conſtruction.</p>
+            <p>We will not pin our faith on the ſleeve of the Church, no by no means; The Church is not infallible: but on the ſleeve of Tranſlators we will pin all our Religion.</p>
+            <q>
+               <l>The ſelf-ſame thing we will abhor</l>
+               <l>One way, and long another for.</l>
+               <bibl>
+                  <hi>Hudibr.</hi>
+               </bibl>
+            </q>
+            <pb n="13" facs="tcp:39487:7"/>
+            <p>Well, in vain did we expect the common Peoples amendment by their own reading of the Scriptures. In vain have they eaten of this <hi>Tree</hi> of <hi>knowledge.</hi> And whereas divers of them, who read the Bible, are yet modeſt and tractable enough to Government, and conformable to the preſent eſtabliſht Church; ſome, you may obſerve, are indifferent for any Religion; others are <hi>conformable</hi> not ſo much from their <hi>under<g ref="char:EOLhyphen"/>ſtanding</hi> of that <hi>book,</hi> as out of the <hi>loyalty</hi> and <hi>ho<g ref="char:EOLhyphen"/>neſty</hi> of their natures: and that ſuch may have <hi>li<g ref="char:EOLhyphen"/>cence</hi> to read it, no body denies. For the <hi>reſt,</hi> who are inclin'd to faction and <hi>change, experience</hi> hath made it apparent enough, the <hi>liberty</hi> of the Scriptures hath made them more factious and ſeditious.</p>
+            <p>For inſtance, there are many extraordinary paſſages or matters of <hi>fact</hi> in the Old Teſtament, particularly in the Books of <hi>Samuel,</hi> the <hi>Kings</hi> and <hi>Chronicles,</hi> which to <hi>them</hi> are very good arguments againſt the preſent Government of <hi>Church</hi> and <hi>State.</hi> The de<g ref="char:EOLhyphen"/>ſtruction of the <hi>Groves</hi> and <hi>high places</hi> and <hi>molten Images</hi> by <hi>Joſiah,</hi> the ſlaughter of <hi>Baal</hi>'s Prieſts by <hi>Jehu,</hi> have been very good arguments againſt the <hi>Hie<g ref="char:EOLhyphen"/>rarchy</hi> and Cathedral Service of the Church of <hi>England.</hi> The <hi>ſpoiling</hi> of the <hi>Egyptians,</hi> the zeal of <hi>Phinehas</hi> againſt <hi>Zimri</hi> and <hi>Cozbi,</hi> are good <hi>Precedents</hi> for Re<g ref="char:EOLhyphen"/>formation and defenſive Arms againſt the King. And <hi>examples,</hi> ſo they be <hi>Scripture,</hi> are as argumentative with the <hi>Vulgar,</hi> as any Precepts whatſoever.</p>
+            <p>The Engliſh Bible is become a <hi>Glaſs,</hi> wherein the factious Multitude can ſee all the Vices, but none of the Vertues of their <hi>Governours.</hi>
+            </p>
+            <pb n="14" facs="tcp:39487:8"/>
+            <p>'Tis too apparent that <hi>Engliſh men</hi> were never ſo ill-natur'd towards one another, ſo ſacrilegious towards God, nor ſo regardleſs of their <hi>Clergy,</hi> as they have been for this laſt <hi>Century.</hi> And the Author of the late <hi>book</hi> entituled, <hi>The Reaſons of the Contempt of the Clergy,</hi> might have aſſigned one <hi>Reaſon,</hi> for it, which I think he has forgot, namely the liberty of the <hi>Engliſh Bible.</hi>
+            </p>
+            <p>For in <hi>Scripture</hi> I do not find (ſaith the judicious Inn<g ref="char:EOLhyphen"/>keeper) any ſuch neceſſity of the <hi>Clergy:</hi> do I not read Joel 2.28. <hi>It ſhall come to paſs in the laſt dayes, that I will pour out my ſpirit upon all fleſh, and your Sons and your Daughters ſhall propheſie, your old men ſhall dream dreams, your young men ſhall ſee Viſions; and alſo. upon the ſervants and upon the handmaids in thoſe dayes will I pour out my ſpirit and they ſhall propheſie.</hi>
+            </p>
+            <p>And do I not read, 1 Cor. 12.7. <hi>To every man is given the manifeſtation of the ſpirit to profit withall.</hi> And Heb. 8.11. <hi>They ſhall not teach every man his neighbour, and every man his brother, ſaying, know the Lord, for they ſhall all know me from the leaſt to the greateſt.</hi>
+            </p>
+            <p>Ve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ily, methinks the Scripture (ſaith the profound Weaver) holds forth rather a Presbyterial than Pre<g ref="char:EOLhyphen"/>latical Government. For don't I read Luke 22.25. <hi>The Rings of the Gentiles exerciſe Lordſhip over them, but it ſhall not be ſo among you.</hi> And 1 <hi>Tim.</hi> 4.15. Neglect not the gift that was given thee by Prophecy, with the laying on of the hands of the Presbytery. And in vain ſhall you or I tell him that he is miſtaken in his <hi>interpretation</hi> of theſe Texts. Yea as for <hi>Luke</hi>
+               <pb n="15" facs="tcp:39487:8"/>22.25. the <hi>ſpirit,</hi> ſaith he, witneſſeth with my <hi>ſpirit,</hi> whatever your carnal <hi>Greek</hi> ſayes to the contrary, I am not miſtaken.</p>
+            <p>To dreſs any meat on the Lords Day is with him a breach of the fourth Commandment, <hi>Thou ſhalt do no manner of work, thou nor thy maid-ſervant,</hi> &amp;c.</p>
+            <p>The Scriptures came at laſt to be ſo abuſed, that about the year 1645. you might have ſeen Papers pub<g ref="char:EOLhyphen"/>lickly affixt on Walls and Poſts in the City of <hi>London</hi> with theſe and the like <hi>inſcriptions.</hi> On ſuch a day ſuch a <hi>Brewers</hi> Clerk <hi>exerciſeth;</hi> ſuch a <hi>Taylor</hi> ex<g ref="char:EOLhyphen"/>poundeth, ſuch a <hi>Waterman</hi> teacheth, <hi>&amp;c.</hi>
+            </p>
+            <p>Which impudence <hi>S. Baſil</hi> reproved long ago in <hi>De<g ref="char:EOLhyphen"/>moſthenes,</hi> Cook to the Emperour <hi>Valens, Tuum eſt pul<g ref="char:EOLhyphen"/>menta decoquere, non Evangelium exponere;</hi> mind your Pottage, and meddle not with the Myſteries of <hi>Scri<g ref="char:EOLhyphen"/>pture.</hi>
+            </p>
+            <p>I end all with a paſſage or two out of our own Hi<g ref="char:EOLhyphen"/>ſtories. The firſt out of <hi>Howes</hi> in the Life of Q. <hi>Mary.</hi>
+            </p>
+            <p>In the year 1553. <hi>Sr. John Gates</hi> was Arraigned and ſentenced to death for Rebellion againſt his <hi>So<g ref="char:EOLhyphen"/>veraign</hi> the Princeſs <hi>Mary,</hi> Eldeſt Daughter to King <hi>Hen.</hi> VIII. At the place of Execution he made his Confeſſion to the People in theſe words.</p>
+            <div type="part">
+               <pb n="16" facs="tcp:39487:9"/>
+               <p>MY coming hither this day (good People) is to dye, whereof I aſſure you all, I am well wor<g ref="char:EOLhyphen"/>thy. For I have lived as Vitiouſly all the dayes of my life as any man hath done in the World. I was the greateſt Reader of <hi>Scripture</hi> that might be of a man of my degree, and a worſe follower thereof not living; for I did not read to the intent to be Edified thereby, nor to ſeek the glory of God; but contrari<g ref="char:EOLhyphen"/>wiſe arrogantly to be ſeditions and to diſpute thereof, and privately to interpret it after mine own brain and affection. Wherefore (good People) I exhort you all to beware how and after what ſort you come to read Gods holy Word. For it is not a trifle or play<g ref="char:EOLhyphen"/>ing game to deal with Gods holy Myſteries. For as the <hi>Bee</hi> of one flower gathers honey, and the <hi>Spider</hi> poyſon of the ſame; even ſo except you humbly ſub<g ref="char:EOLhyphen"/>mit your ſelves to God, and charitably read the ſame to the intent to be edified thereby, it is to you as poy<g ref="char:EOLhyphen"/>ſon and worſe, and it were better to let it alone. Thus he.</p>
+               <p>Better for him at leaſt, and all ſuch ill-diſpoſed Peo<g ref="char:EOLhyphen"/>ple to underſtand their Catechiſm, that is, the princi<g ref="char:EOLhyphen"/>ples and maxims of Chriſtian Religion collected by the Church: and to pray to God that they may lead a quiet and peaceable life in all Godlineſs and ho<g ref="char:EOLhyphen"/>neſty.</p>
+               <pb n="17" facs="tcp:39487:9"/>
+               <p>The other paſſage is this. One of the Murderers of K. <hi>Charles</hi> the Firſt of glorious memory, as he paſ<g ref="char:EOLhyphen"/>ſed to <hi>Tyburn</hi> in <hi>October</hi> 1660. called for his Bible, and embracing it, ſaid, <hi>This hath the whole Cauſe in it,</hi> meaning the <hi>Good Old Cauſe.</hi> Yea, the cauſe for which I have engaged is contained in this book of God. A certain Miniſter asked him, what he meant by the Cauſe? He anſwered, Sir, I mean that Cauſe which we were engaged in under the Parliament; which was for common right and freedom, and againſt <hi>Surplice</hi> and <hi>Common-Prayer.</hi>
+               </p>
+               <p>This was Colonel <hi>Axtel,</hi> a man of good natural Parts. See Collection of Speeches, Prayers, and pri<g ref="char:EOLhyphen"/>vate paſſages of Regicides, Printed 1661.</p>
+               <p>To this we may add the words of Colonel <hi>John Barkſtead,</hi> another of the Regicides out of the Nar<g ref="char:EOLhyphen"/>rative publiſhed by their own Friends, <hi>anno</hi> 1662.</p>
+               <p>A Friend coming to Viſit him that week he ſuffered, did partake of many choice breathings from him: one was this, <q>Although I find I have no ſtrength to encoun<g ref="char:EOLhyphen"/>ter with thoſe great tryals I am to meet with, yet I will labour to quiet my heart through the Spirit of ſaith from that <hi>Scripture, Iſaiah</hi> 30.7. Your ſtrength is to ſit ſtill; and indeed I find it ſo.</q>
+               </p>
+               <p>Then one preſent asked him, if he thought the <hi>Cauſe</hi> in which he had been engaged, would ever riſe again; he Anſwered, the <hi>Cauſe</hi> lyes in the Boſom of Chriſt, and as ſure as Chriſt aroſe, the <hi>Cauſe</hi> will riſe again:
+<pb n="18" facs="tcp:39487:10"/>and we dye but to make way for it. For when <hi>John</hi> the <hi>Baptiſt</hi> came to prepare the way for Chriſt, he muſt be beheaded for it; ſo we by our death do but make way for the next coming of Jeſus Chriſt perſo<g ref="char:EOLhyphen"/>nally to reign a Thouſand years with his Saints: and although we dye, the <hi>Cauſe</hi> will certainly live. This he gathered out of <hi>Ezekiel, Daniel,</hi> and the <hi>Revela<g ref="char:EOLhyphen"/>tions.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="19" facs="tcp:39487:11"/>
+            <head>POSTSCRIPT.</head>
+            <p>IN the year 1536. when the Bible was expoſed in Engliſh by the commandment of K. <hi>Hen.</hi> 8. theſe following reaſons were given <hi>pro</hi> and <hi>con,</hi> which the Reader will give me leave to tranſcribe out of the Hiſtory of thoſe times with ſome few remarks.</p>
+            <p>Thoſe who deny the People the uſe of the Bible in the Vulgar Tongue, muſt needs know their own doctrine and practices to be inconſiſtent with it. Therefore Arch-biſhop <hi>Cranmer</hi> who was projecting the moſt ef<g ref="char:EOLhyphen"/>fectual means for promoting the Reformation, moved in Convocation, That they ſhould petition the King for leave to make a Tranſlation of the Bible; which Biſhop <hi>Gardiner</hi> and all his party oppoſed both in Convocation and in ſecret with the King; ſaying, That all the He<g ref="char:EOLhyphen"/>reſies and extravagant opinions which then diſtracted all <hi>Germany,</hi> ſprang from the common uſe of the Scri<g ref="char:EOLhyphen"/>ptures: and that there was an example before their eyes, of nineteen <hi>Hollanders</hi> that in <hi>May</hi> 1535. were con<g ref="char:EOLhyphen"/>victed for denying Chriſt to be both God and Man, or that he took fleſh and blood of the Virgin <hi>Mary;</hi> or that the Sacraments had any effect on thoſe that recei<g ref="char:EOLhyphen"/>ved them. It was complained that all theſe drew their damnable errours from the indiſcreet uſe of the Scri<g ref="char:EOLhyphen"/>ptures: and that to offer the Bible in the Engliſh tongue
+<pb n="20" facs="tcp:39487:12"/>during theſe diſtractions, would prove, as they alledged, the greateſt ſnare that could be.</p>
+            <p>Therefore they propoſed<g ref="char:punc">▪</g> (namely <hi>Gardiner</hi> and his party) that there ſhould be a ſhort Expoſition of the moſt uſeful and neceſſary doctrines of the Chriſtian faith given to the People in the Engliſh tongue for the inſtruction of the Nation; which would keep them in a certain ſubjection to the King and Church in matters of faith.</p>
+            <p>The other Party, though they liked well the pub<g ref="char:EOLhyphen"/>liſhing ſuch a Treatiſe in the Vulgar Tongue, yet by no means thought it ſufficient; but ſaid, the People muſt be allowed to <hi>ſearch</hi> the Scripture; by which they might be convinced that ſuch Treatiſes were according to it. <hi>Whereof</hi> (the Reader may take notice) <hi>the un<g ref="char:EOLhyphen"/>ſtable multitude are excellent Judges.</hi>
+            </p>
+            <p>To this great oppoſition was made at Court. For ſome told the King that diverſity of opinions would ariſe out of it; and that he would be no longer able to Go<g ref="char:EOLhyphen"/>vern his Subjects, if he gave way to it. <hi>Theſe were ſhrewd gueſſers.</hi>
+            </p>
+            <p>On the other hand it was repreſented, That nothing would make the King's Supremacy more acceptable to the Nation. <hi>With what truth this was ſuggeſted, the event hath made apparent: our numerous Sects at this day finding no ſuch thing as his Majeſties Supremacy in the holy Scriptures.</hi>
+            </p>
+            <p>Further it was ſaid, that nothing would render the Pope more hateful to the People, than to let them ſee that whereas the Popes had governed them by a blind obedience, and kept them in darkneſs; the King brought them into the <hi>light</hi> by the free uſe of Gods Word.
+<pb n="21" facs="tcp:39487:12"/>Yes, They were brought out of the darkneſs of Popery into a great many <hi>lights:</hi> the light of Presbytery, the light of Independency, the light of Socinianiſm, of Anabaptiſm, Muggletonianiſm, Quakeriſm, Fifth mo<g ref="char:EOLhyphen"/>narchy men, <hi>&amp;c.</hi> None of theſe <hi>lights,</hi> I confeſs, ari<g ref="char:EOLhyphen"/>ſing out of the Bible, but out of the unſtable noddles of the People, miſtaking and perverting that Bible. Into what diſtraction this Variety of <hi>lights,</hi> in proceſs of time, would turn, was not then foreſeen, <hi>Anno</hi> 1536.</p>
+            <p>It was ſaid moreover, That nothing would more ef<g ref="char:EOLhyphen"/>fectually extirpate the Popes Authority <hi>(and I am afraid, in time, the King's Authority.)</hi>
+            </p>
+            <p>Theſe arguments (ſaith the Hiſtorian) enforced by the power which <hi>Ann Boleyn</hi> had in Kings <hi>Henry</hi>'s affe<g ref="char:EOLhyphen"/>ctions, were ſo much conſidered by him, that he gave order for ſetting about the <hi>Tranſlation</hi> immediately.</p>
+            <p>Doubtleſs his intention was good: but the fruit of it he ſaw in a few years. For his Trading Subjects gene<g ref="char:EOLhyphen"/>rally not having temper or capacity to underſtand it, were converted from the blind obedience and merits of Popery, into a <hi>World</hi> of envy, malice, and jealouſie one of another. Of this the King himſelf takes notice in his Speech to the Houſe of commons, <hi>Anno</hi> 1545. the words are theſe, <hi>viz.</hi>
+            </p>
+            <p>He could not but obſerve, <q>That inſtead of chari<g ref="char:EOLhyphen"/>ty and concord, diſcord and diviſion ruled everywhere. He cited <hi>St. Paul</hi>'s words, That charity was <hi>gentle</hi> and not <hi>envious</hi> nor <hi>proud.</hi> But when one called ano<g ref="char:EOLhyphen"/>ther Heretique, and the other called him Papiſt or Phariſee, it was no ſign of Charity. Some (ſaid he) are too ſtiff in their old <hi>Mumpſimus;</hi> others are too buſie and curious in their new <hi>Sumpſimus.</hi> He pro<g ref="char:EOLhyphen"/>ceeded
+<pb n="22" facs="tcp:39487:13"/>to reprove thoſe of the <hi>Laity</hi> who railed at their Biſhops and Prieſts. For though they had the Bible given them in their Mother Tongue; yet, ſaid he, That was only given them to inform their own Conſciences, and inſtruct their Children and Families; not to rail againſt Prieſts, as ſome vain perſons did. He was ſorry that ſuch a Jewel as the Word of God was ſo ill uſed: but much more ſorry that men follow<g ref="char:EOLhyphen"/>ed it ſo little. For charity (ſaid he) was never faint<g ref="char:EOLhyphen"/>er; and a Godly life never leſs appeared; and God never leſs Reverenced and Worſhipped. Therefore he exhorted them to live as brethren in charity toge<g ref="char:EOLhyphen"/>ther, to Love, Dread and Serve God.</q>
+            </p>
+            <p>One paſſage more of this <hi>Speech</hi> I cannot but obſerve.</p>
+            <p>
+               <q>The fault of all this (ſaith he) I muſt impute chiefly to the Fathers and Teachers of the Spiritualty, who preach one againſt another without charity or diſcretion. Few preach the Word of God truly and ſincerely. And how can the poor People live in con<g ref="char:EOLhyphen"/>cord whileſt their Teachers ſow debate among them? Therefore he exhorted them to ſet forth Gods Word by true preaching: or elſe he as Gods Vicar and high Miniſter would ſee theſe enormities corrected.</q>
+            </p>
+            <p>This was excellently ſpoken. The diſtractions of thoſe times were to be attributed in a great meaſure to <hi>Preachers.</hi> I wiſh I could not ſay ſo of ours.</p>
+            <p>One thing I underſtand not, That to prevent indecen<g ref="char:EOLhyphen"/>cy, contradiction and diſorder in Gods publick Worſhip, the <hi>Clergy</hi> are obliged to the uſe of one Liturgy or ſet Form of <hi>Prayer;</hi> and at the ſame time (every Novice) left to the liberty of his own diſcourſe in the <hi>Pulpit,</hi> provided he quote <hi>Scripture</hi> for it.</p>
+            <pb n="23" facs="tcp:39487:13"/>
+            <p>
+               <hi>St. Paul</hi> leaves not <hi>Timothy</hi> himſelf to his own inven<g ref="char:EOLhyphen"/>tion to collect Gods Word out of the <hi>Scriptures.</hi> No, <hi>but hold faſt the Form of ſound words which thou haſt heard of me in faith and love which is in Chriſt Jeſus: and the things that thou haſt heard of me among many witneſſes, the ſame commit thou to faithful men, who ſhall be able to teach others alſo,</hi> 2 Tim. 2.</p>
+            <p>The ſeed of Gods Word were perhaps better prepa<g ref="char:EOLhyphen"/>red by the Church, than left to the liberty and diſcretion of every <hi>ſower</hi> to miſtake <hi>tares</hi> for <hi>wheat.</hi> Then would folk come to <hi>Church</hi> not to admire ſuch a Preachers good memory or good parts, but to Worſhip <hi>God</hi> and hear his <hi>Commandments,</hi> gravely and materially ex<g ref="char:EOLhyphen"/>pounded by his <hi>Church.</hi>
+            </p>
+            <p>Biſhop <hi>Bramhall</hi> was a diſcerning <hi>Perſon;</hi> and tells Mr. <hi>Baxter</hi> in his <hi>anſwer</hi> to him about <hi>Grotian Religi<g ref="char:EOLhyphen"/>on,</hi> that it's true, <hi>Homilies may come ſhort of preaching in point of popular efficacy, but far exceed it in point of ſe<g ref="char:EOLhyphen"/>curity.</hi> There is no compariſon betwixt the <hi>Harangues</hi> of Epiſcopal men and thoſe of the Fanaticks. Yet will the Fanaticks by the help of <hi>tone</hi> and <hi>elocution</hi> ever out do them in point of <hi>popular</hi> eſtimation.</p>
+            <p>One of the Emperours of <hi>Muſcovy</hi> (as I have been credibly inform'd) being weary of the variety and infi<g ref="char:EOLhyphen"/>nite jarrings among <hi>Preachers,</hi> and of the diſtractions thereby fomented among his Subjects, utterly forbad <hi>Preaching</hi> throughout all his Dominions; and inſtead thereof commanded his <hi>Clergy</hi> to read certain Homilies to the People exhorting to the practice of <hi>Chriſtian Religion,</hi> without adding one word of their <hi>own</hi> upon pain of <hi>death.</hi> He ſaw otherwiſe no likelihood of qui<g ref="char:EOLhyphen"/>etneſs or friendſhip among his <hi>Subjects.</hi>
+            </p>
+            <pb n="24" facs="tcp:39487:14"/>
+            <p>In theſe Kingdoms at this day (I ſpeak it with all humble ſubmiſſion) the <hi>Chriſtian Religion</hi> is not preached to the <hi>People</hi> under its proper heads, which are the Creed, the Lords Prayer, the Ten Command<g ref="char:EOLhyphen"/>ments and the Sacraments, but handled in confuſion on this and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'other <hi>Text;</hi> and mingled with their own <hi>Philoſophy</hi> and <hi>Reaſonings.</hi> The end of it is, <hi>The People are ever learning and never able to come to the know<g ref="char:EOLhyphen"/>ledge of the truth;</hi> as <hi>St. Paul</hi> ſpeaks.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39487:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
